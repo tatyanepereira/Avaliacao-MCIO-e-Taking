@@ -12,3 +12,4 @@ CREATE TABLE Endereco
 	,CONSTRAINT pkEndereco PRIMARY KEY(Endereco_id)
 	,CONSTRAINT fkEnderecoPessoa FOREIGN KEY(Pessoa_id) REFERENCES Pessoa(Pessoa_id)
 	);
+	
