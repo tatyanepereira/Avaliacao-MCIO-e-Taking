@@ -1,6 +1,5 @@
 programa
 {
-	
 	funcao inicio()
 	{
 		real a, b, soma, sub, div, mult
